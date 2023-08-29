@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Sequelize**
 
-- 💬 Ask me about **mysql,ejs,express**
+- 💬 Ask me about **core java,nodejs,expresjs,mysql,sequelize,mongodb**
 
 - 📫 How to reach me **rahulrai5643@gmail.com**
 
