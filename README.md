@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Sequelize**
 
-- 🌱 I’m currently learning **React,Sequelize**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **core java,nodejs,expresjs,mysql,sequelize,mongodb**
+- 💬 Ask me about **MERN Stack & Related Technology**
 
 - 📫 How to reach me **rahulrai5643@gmail.com**
 
