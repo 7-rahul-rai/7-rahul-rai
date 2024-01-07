@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/1tz_rahulrai" target="blank"><img src="https://img.shields.io/twitter/follow/1tz_rahulrai?logo=twitter&style=for-the-badge" alt="1tz_rahulrai" /></a> </p>
 
-- 🔭 I’m currently working on **Sequelize**
+- 🔭 I’m currently working on **WebSocket**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN Stack & Related Technology**
+- 💬 Ask me about **Api, Bakcend Development & related Technology**
 
 - 📫 How to reach me **rahulrai5643@gmail.com**
 
